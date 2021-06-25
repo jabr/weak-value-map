@@ -20,6 +20,10 @@ wvm.get(42) // #=> undefined
 [...wvm.keys()].includes(42) // #=> false
 ```
 
+## See also
+
+* [ref-most-used](https://github.com/jabr/ref-most-used) - LRU/LFU cache of strong object references
+
 ## References
 
 * [WeakRef](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakRef)
